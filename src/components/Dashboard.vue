@@ -82,11 +82,10 @@ export default {
               method: "DELETE"
             });
 
-          const res = await req.json();
+          const res = await req.json()
 
-          this.getStatus();
+          this.getPedidos();
 
-            console.log(res.id)
 
           // colocar uma msg de sistema
            this.msg = `Pedido nº ${res.id} foi deletado com sucesso`;

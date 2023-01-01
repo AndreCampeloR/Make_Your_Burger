@@ -85,40 +85,8 @@
       "opcionais": [
         "Bacon"
       ],
-      "status": "Finalizado",
-      "id": 1
-    },
-    {
-      "nome": "jorge",
-      "carne": "Maminha",
-      "pao": "Parmesão e Orégano",
-      "opcionais": [
-        "Cheddar"
-      ],
-      "status": "Solicitado",
-      "id": 2
-    },
-    {
-      "nome": "joao",
-      "carne": "Maminha",
-      "pao": "3 Queijos",
-      "opcionais": [
-        "Bacon",
-        "Cebola roxa"
-      ],
-      "status": "Finalizado",
-      "id": 3
-    },
-    {
-      "nome": "aparecida",
-      "carne": "Maminha",
-      "pao": "Parmesão e Orégano",
-      "opcionais": [
-        "Bacon",
-        "Salame"
-      ],
       "status": "Em produção",
-      "id": 4
+      "id": 1
     }
   ]
 }

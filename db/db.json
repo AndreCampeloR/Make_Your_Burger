@@ -85,51 +85,40 @@
       "opcionais": [
         "Bacon"
       ],
-      "status": "solicitado",
+      "status": "Finalizado",
       "id": 1
     },
     {
-      "nome": "andré",
-      "carne": "Alcatra",
-      "pao": "Italiano Branco",
+      "nome": "jorge",
+      "carne": "Maminha",
+      "pao": "Parmesão e Orégano",
       "opcionais": [
-        "Cebola roxa"
+        "Cheddar"
       ],
-      "status": "solicitado",
+      "status": "Solicitado",
       "id": 2
     },
     {
-      "nome": "andré",
+      "nome": "joao",
       "carne": "Maminha",
-      "pao": "Italiano Branco",
+      "pao": "3 Queijos",
       "opcionais": [
-        "Bacon"
+        "Bacon",
+        "Cebola roxa"
       ],
-      "status": "solicitado",
+      "status": "Finalizado",
       "id": 3
     },
     {
-      "nome": "aparecida garcia de araujo campelo",
-      "carne": "Picanha",
+      "nome": "aparecida",
+      "carne": "Maminha",
       "pao": "Parmesão e Orégano",
       "opcionais": [
-        "Cebola roxa"
-      ],
-      "status": "solicitado",
-      "id": 4
-    },
-    {
-      "nome": "lauro henrique campos",
-      "carne": "Veggie burger",
-      "pao": "Integral",
-      "opcionais": [
         "Bacon",
-        "Salame",
-        "Cebola roxa",
-        "Pepino"
+        "Salame"
       ],
-      "status": "solicitado",
-      "id": 5
+      "status": "Em produção",
+      "id": 4
     }
   ]
 }

@@ -77,21 +77,23 @@ export default {
 
         },
         async deleteBurger(id) {
+             
             
             const req = await fetch(`http://localhost:3000/burgers/${id}`, {
-              method: "DELETE"
+               method: "DELETE"
             });
 
           const res = await req.json()
 
           this.getPedidos();
 
-
           // colocar uma msg de sistema
            this.msg = `Pedido nº ${res.id} foi deletado com sucesso`;
 
           // limpar msg
            setTimeout(()=> this.msg = '', 3000);
+
+           console.log(res)
 
       },
       async updateBurger(event, id) {

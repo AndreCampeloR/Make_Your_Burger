@@ -129,8 +129,19 @@
         "Pepino",
         "Tomate"
       ],
-      "status": "solicitado",
+      "status": "Finalizado",
       "id": 5
+    },
+    {
+      "nome": "lauro ",
+      "carne": "Picanha",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Bacon",
+        "Cheddar"
+      ],
+      "status": "Em produção",
+      "id": 6
     }
   ]
 }

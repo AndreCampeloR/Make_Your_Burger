@@ -26,7 +26,6 @@
            </div>
            <div>
             <select name="status" class="status" @change="updateBurger($event, burger.id)">
-                <option value="">Selecione</option>
                 <option v-for="s in status" :key="s.id" :value="s.tipo" :selected="burger.status == s.tipo">
                     {{s.tipo}}
                 </option>

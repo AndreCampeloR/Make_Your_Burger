@@ -27,7 +27,7 @@
            <div>
             <select name="status" class="status" @change="updateBurger($event, burger.id)">
                 <option value="">Selecione</option>
-                <option v-for="s in status" :key="s.id" :value="s.tipo" :selected="burger.status === s.tipo">
+                <option v-for="s in status" :key="s.id" :value="s.tipo" :selected="burger.status == s.tipo">
                     {{s.tipo}}
                 </option>
             </select>
@@ -83,12 +83,12 @@ export default {
                method: "DELETE"
             });
 
-          const res = await req.json()
+            const res = await req.json()
 
           this.getPedidos();
 
           // colocar uma msg de sistema
-           this.msg = `Pedido nº ${res.id} foi deletado com sucesso`;
+           this.msg = `Pedido removido com sucesso!`;
 
           // limpar msg
            setTimeout(()=> this.msg = '', 3000);

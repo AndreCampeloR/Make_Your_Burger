@@ -21,11 +21,13 @@
 </p>
 
 ## 📝 Sobre
-O projeto é um sistema simples de hamburgueria no qual o usuario monta seu pedido, colocando seu nome e escolhendo entre os ingredientes disponiveis [Pão, Carne e Adicionais]
+O projeto é um sistema simples de hamburgueria no qual o usuário monta seu pedido, colocando seu nome e escolhendo entre os ingredientes disponíveis [Pão, Carne e Adicionais]
 
-O sistema consome os dados de uma API local criada com JSON server, após o pedido ser enviado é então adicionado a API aparecendo na tela de pedidos com o status de solicitado, o status pode ser alterado entre ["Solicitado","Em produção" e "Finalizado"] 
+O sistema consome os dados de uma API local criada com JSON server. 
 
-Os Pedidos podem ser excluidos a qualquer momento.
+Após o pedido ser enviado é então adicionado a API aparecendo na tela de pedidos com o status de solicitado, o status pode ser alterado entre ["Solicitado","Em produção" e "Finalizado"] 
+
+Os Pedidos podem ser excluídos a qualquer momento.
 
 
 ## 📹 Video de apresentação do projeto

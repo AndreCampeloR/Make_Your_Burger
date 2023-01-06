@@ -11,16 +11,16 @@
   </tr>
 </table>
 
-# Make Your Burger :coin:
+# Make Your Burger 🍔
 <p align="center">
   <a href="#-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-video-de-apresentação-do-projeto">Vídeo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias-utilizadas">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-clonando-o-projeto">Clone</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-autor">autor</a>
+  <a href="#-autor">Autor</a>
 </p>
 
-## Sobre  :memo:
+## 📝 Sobre
 O projeto é um sistema simples de hamburgueria no qual o usuario monta seu pedido, colocando seu nome e escolhendo entre os ingredientes disponiveis [Pão, Carne e Adicionais]
 
 O sistema consome os dados de uma API local criada com JSON server, após o pedido ser enviado é então adicionado a API aparecendo na tela de pedidos com o status de solicitado, o status pode ser alterado entre ["Solicitado","Em produção" e "Finalizado"] 
@@ -28,16 +28,16 @@ O sistema consome os dados de uma API local criada com JSON server, após o pedi
 Os Pedidos podem ser excluidos a qualquer momento.
 
 
-## Video de apresentação do projeto
+## 📹 Video de apresentação do projeto
 
 
 
-## Tecnologias utilizadas :rocket:
+## 🚀 Tecnologias utilizadas 
 - VUE
 - JS
 - HTML
 
-## Clonando o projeto
+## 📖 Clonando o projeto
 
 Para clonar e executar este projeto em seu computador, você precisará do [Git](https://git-scm.com/) e [Node.js v18.12.1](https://nodejs.org/en/) ou superior previamente instalados.<br>
 Feito isso, no terminal:
@@ -62,7 +62,7 @@ Feito isso, no terminal:
 (http://localhost:8080/ ou http://192.168.3.19:8080/)
 ```
 
-## Autor  :man_technologist:
+## 👨‍💻 Autor
 
 André Luiz Campelo
 

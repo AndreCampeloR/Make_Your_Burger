@@ -11,7 +11,7 @@
   </tr>
 </table>
 
-# Make Your Burger 🍔
+# Make Your Burger 🍔 
 <p align="center">
   <a href="#-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-video-de-apresentação-do-projeto">Vídeo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -44,10 +44,10 @@ Feito isso, no terminal:
 
 ```bash
 # Clone esse repositório com:
-> git clone 
+> git clone https://github.com/AndreCampeloR/Make_Your_Burger.git
 
 # Entre no repositório com:
-> cd 
+> cd Make_Your_Burger
 
 # Instale as dependências com:
 > npm install

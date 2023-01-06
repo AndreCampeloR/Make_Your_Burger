@@ -32,7 +32,7 @@ Os Pedidos podem ser excluidos a qualquer momento.
 
 
 
-### Tecnologias utilizadas :rocket:
+## Tecnologias utilizadas :rocket:
 - VUE
 - JS
 - HTML
@@ -62,7 +62,7 @@ Feito isso, no terminal:
 (http://localhost:8080/ ou http://192.168.3.19:8080/)
 ```
 
-### Autor  :man_technologist:
+## Autor  :man_technologist:
 
 André Luiz Campelo
 

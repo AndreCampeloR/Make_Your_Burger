@@ -110,38 +110,27 @@
       "id": 3
     },
     {
-      "nome": "aparecida",
-      "carne": "Alcatra",
-      "pao": "Parmesão e Orégano",
-      "opcionais": [
-        "Pepino",
-        "Tomate"
-      ],
-      "status": "Em produção",
-      "id": 4
-    },
-    {
-      "nome": "jorge",
+      "nome": "matheus",
       "carne": "Veggie burger",
-      "pao": "Italiano Branco",
-      "opcionais": [
-        "Cebola roxa",
-        "Pepino",
-        "Tomate"
-      ],
-      "status": "Finalizado",
-      "id": 5
-    },
-    {
-      "nome": "lauro ",
-      "carne": "Picanha",
       "pao": "3 Queijos",
       "opcionais": [
         "Bacon",
+        "Salame",
         "Cheddar"
       ],
       "status": "Em produção",
-      "id": 6
+      "id": 7
+    },
+    {
+      "nome": "paulo",
+      "carne": "Alcatra",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Bacon",
+        "Salame"
+      ],
+      "status": "Finalizado",
+      "id": 8
     }
   ]
 }

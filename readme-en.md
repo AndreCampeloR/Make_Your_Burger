@@ -21,13 +21,13 @@
 </p>
 
 ## 📝 About 
-O projeto é um sistema simples de hamburgueria no qual o usuário monta seu pedido, colocando seu nome e escolhendo entre os ingredientes disponíveis [Pão, Carne e Adicionais]
+The project is a simple hamburger system in which the user assembles his order, entering his name and choosing among the available ingredients [Bread, Meat and Additional]
 
-O sistema consome os dados de uma API local criada com JSON server. 
+The system consumes data from a local API created with JSON server. 
 
-Após o pedido ser enviado é então adicionado a API aparecendo na tela de pedidos com o status de solicitado, o status pode ser alterado entre ["Solicitado","Em produção" e "Finalizado"] 
+After the order is sent, it is then added to the API, appearing on the order screen with the status of requested, the status can be changed between ["Requested","In production" and "Finished"]
 
-Os Pedidos podem ser excluídos a qualquer momento.
+Orders can be deleted at any time.
 
 
 ## 📹 Project video Presentation
@@ -41,26 +41,26 @@ Os Pedidos podem ser excluídos a qualquer momento.
 
 ## 📖 Cloning the Project
 
-Para clonar e executar este projeto em seu computador, você precisará do [Git](https://git-scm.com/) e [Node.js v18.12.1](https://nodejs.org/en/) ou superior previamente instalados.<br>
-Feito isso, no terminal:
+To clone and run this project on your computer, you will need the [Git](https://git-scm.com/) and [Node.js v18.12.1](https://nodejs.org/en/) or higher previously installed.<br>
+After that, in the terminal:
 
 ```bash
-# Clone esse repositório com:
+# Clone this repository with:
 > git clone https://github.com/AndreCampeloR/Make_Your_Burger.git
 
-# Entre no repositório com:
+# Enter the repository with:
 > cd Make_Your_Burger
 
-# Instale as dependências com:
+# Install the dependencies with:
 > npm install
 
-# Execute o json server com:
+# Run the json server with:
 > npm run backend
 
-# Execute o projeto com:
+# Run the project with:
 > npm run serve
 
-# Feito isso, você já poderá acessar o projeto pelo link que aparecerá no terminal! 
+# Once this is done, you will be able to access the project through the link that will appear in the terminal! 
 (http://localhost:8080/ ou http://192.168.3.19:8080/)
 ```
 
